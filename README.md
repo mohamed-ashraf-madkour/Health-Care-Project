@@ -97,7 +97,7 @@ Patient satisfaction varies noticeably across regions and states, highlighting d
 
 # 📷 Dashboard Preview
 
-![Healthcare Dashboard](screenshots/healthcare_dashboard.png)
+![Healthcare Dashboard](screenshots/healthcare.png)
 
 --------------------------------------------------------------------------------------------------
 
